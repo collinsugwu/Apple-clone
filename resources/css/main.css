@@ -34,11 +34,17 @@ ul li {
     display: inline;
 }
 
+ion-icon {
+    width: 20px;
+    height: 20px;
+    padding-bottom: 10px;
+}
+
 .header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("img/hero.jpg");
     background-size: cover;
-    background-position-x: center; 
-    background-position-y: center; 
+    background-position-x: center;
+    background-position-y: center;
     height: 90vh;
 }
 
@@ -76,6 +82,7 @@ ul li {
 }
 
 .nav:last-child {
+    padding-right: 10px;
     border-top-right-radius: 3px;
     border-bottom-right-radius: 3px;
 }
@@ -93,7 +100,7 @@ input {
 }
 
 input:focus {
-    flex: 1;
+    flex-grow: 5;
 }
 
 .nav a:link,
