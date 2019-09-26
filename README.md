@@ -15,3 +15,6 @@ Here is how to setup this project on your machine.
 Open your terminal in your working folder and execute the following command
 
 >git clone https://github.com/collinsugwu/Apple-clone
+
+Here is the link to the live version of this project
+[here](https://github.com/collinsugwu/Apple-clone/blob/feature/index.html)
