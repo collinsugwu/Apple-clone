@@ -33,7 +33,7 @@ ul li {
   display: inline;
 }
 
-ion-icon {
+.ion-icon {
   width: 20px;
   height: 20px;
   padding-bottom: 10px;
@@ -87,8 +87,6 @@ ion-icon {
 }
 
 input {
-  border-top-right-radius: 2px;
-  border-bottom-right-radius: 2px;
   background-color: rgb(100, 100, 100);
   width: 100%;
   margin: 5px 5px 0 0;
@@ -100,17 +98,6 @@ input {
 
 input:focus {
   flex-grow: 5;
-}
-
-.nav a:link,
-.nav a:visited {
-  color: #fff;
-  font-size: 14px;
-}
-
-.nav a:active,
-.nav a:hover {
-  background-color: #565656;
 }
 
 .background div {
@@ -137,21 +124,6 @@ input:focus {
   font-weight: 300;
   width: 900px;
   margin-top: 2%;
-}
-
-.background div a:link,
-.background div a:visited {
-  color: white;
-  display: inline-block;
-  width: 100%;
-  text-align: center;
-  padding: 10px;
-  font-size: 25px;
-}
-
-.background div a:hover,
-.background div a:hover {
-  text-decoration: underline;
 }
 
 .product-section {
@@ -213,11 +185,36 @@ footer .flex-child p {
   border-right: 0;
 }
 
+.nav a:link,
+.nav a:visited {
+  color: #fff;
+  font-size: 14px;
+}
+
+.nav a:active,
+.nav a:hover {
+  background-color: #565656;
+}
+
+.background div a:link,
+.background div a:visited {
+  color: white;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  font-size: 25px;
+}
+
+.background div a:hover,
+.background div a:active {
+  text-decoration: underline;
+}
+
 footer .Copyright {
   margin-top: 10px;
 }
 
 footer .Copyright * {
   display: inline;
-  margin: 5px;
-}
+  margin: 5px;}
