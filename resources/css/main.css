@@ -4,7 +4,6 @@
     box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    box-sizing: border-box;
 }
 
 html {
@@ -148,7 +147,6 @@ input:focus {
     text-align: center;
     padding: 10px;
     font-size: 25px;
-
 }
 
 .background div a:hover,
