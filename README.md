@@ -17,4 +17,5 @@ Open your terminal in your working folder and execute the following command
 >git clone https://github.com/collinsugwu/Apple-clone
 
 Here is the link to the live version of this project
-[here](https://raw.githack.com/collinsugwu/Apple-clone/master/index.html)
+[here](https://raw.githack.com/collinsugwu/Apple-clone/feature/index.html)
+

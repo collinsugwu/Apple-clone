@@ -20,7 +20,7 @@ a {
   text-decoration: none;
 }
 
-a img {
+a .small-icon {
   width: 25px;
   height: 25px;
 }
@@ -37,6 +37,16 @@ ul li {
   width: 20px;
   height: 20px;
   padding-bottom: 10px;
+}
+
+.nav-search {
+  position: relative;
+}
+
+.search {
+  position: absolute;
+  top: 20%;
+  left: 2%;
 }
 
 .header {
@@ -62,7 +72,10 @@ ul li {
 }
 
 .nav {
-  background-color: rgb(100, 100, 100);
+  background: rgb(100, 100, 100);
+  background: -moz-linear-gradient(rgb(144, 142, 142) 0%, #565656 50%, rgb(144, 142, 142) 100%);
+  background: -webkit-linear-gradient(rgb(144, 142, 142) 0%, #565656 50%, rgb(144, 142, 142) 100%);
+  background: linear-gradient(rgb(144, 142, 142) 0%, #565656 50%, rgb(144, 142, 142) 100%);
   color: #fff;
   flex: 1 7%;
   text-align: center;
