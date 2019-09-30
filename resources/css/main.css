@@ -73,9 +73,9 @@ ul li {
 
 .nav {
   background: rgb(100, 100, 100);
-  background: -moz-linear-gradient(top, rgb(100, 100, 100) 0%, #565656 50%, rgb(100, 100, 100) 100%);
-  background: -webkit-linear-gradient(top, rgb(100, 100, 100) 0%, #565656 50%, rgb(100, 100, 100) 100%);
-  background: linear-gradient(top, rgb(100, 100, 100) 0%, #565656 50%, rgb(100, 100, 100) 100%);
+  background: -moz-linear-gradient(to top, rgb(100, 100, 100) 0%, #565656 50%, rgb(100, 100, 100) 100%);
+  background: -webkit-linear-gradient(to top, rgb(100, 100, 100) 0%, #565656 50%, rgb(100, 100, 100) 100%);
+  background: linear-gradient(to top, rgb(100, 100, 100) 0%, #565656 50%, rgb(100, 100, 100) 100%);
   color: #fff;
   flex: 1 7%;
   text-align: center;
