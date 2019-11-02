@@ -64,7 +64,6 @@ ul li {
 .background ul {
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
   position: absolute;
   width: 70%;
   top: 15%;
@@ -99,7 +98,7 @@ ul li {
   border-bottom-right-radius: 3px;
 }
 
-input {
+.input {
   background-color: rgb(100, 100, 100);
   width: 100%;
   margin: 5px 5px 0 0;
@@ -145,16 +144,12 @@ input:focus {
 
 .product-section ul {
   display: flex;
-  flex-wrap: wrap;
+  flex-shrink: inherit;
   width: 100%;
   overflow: hidden;
 }
 
-.product-section ul li {
-  width: 25%;
-}
-
-footer {
+.footer {
   width: 80%;
   margin: 0 auto;
   font-size: 10px;
@@ -170,11 +165,10 @@ footer {
 }
 
 .flex-child {
-  width: 35%;
   flex: 1;
 }
 
-footer .flex-child p {
+.footer .flex-child p {
   margin: 5px;
   word-spacing: 3px;
 }
@@ -224,11 +218,11 @@ footer .flex-child p {
   text-decoration: underline;
 }
 
-footer .Copyright {
+.footer .Copyright {
   margin-top: 10px;
 }
 
-footer .Copyright * {
+.footer .Copyright * {
   display: inline;
   margin: 5px;
 }
