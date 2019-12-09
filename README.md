@@ -54,6 +54,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Here is the link to the live version of the project [here](https://raw.githack.com/collinsugwu/Apple-clone/feature/index.html)
+
+In this project we'll be cloning the website of one of the most design-forward companies in the world. It’s not a very complex site but it uses background photos well and the navbar at the top contains a gradient that you should be able to mimic.
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 <p align="center">
@@ -124,7 +127,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 )
 
 
-Project Link: [https://github.com/collinsugwu/Microverse201-Enumerable-Methods](https://github.com/collinsugwu/Microverse201-Enumerable-Methods)
+Project Link: [https://github.com/collinsugwu/Apple-clone](https://github.com/collinsugwu/Apple-clone)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
