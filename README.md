@@ -137,12 +137,12 @@ Project Link: [https://github.com/collinsugwu/Microverse201-Enumerable-Methods](
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/collinsugwu/Microverse201-Enumerable-Methods/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/collinsugwu/Microverse201-Enumerable-Methods
-[forks-url]: https://github.com/collinsugwu/Microverse201-Enumerable-Methods/network/members
-[stars-shield]: https://img.shields.io/github/stars/collinsugwu/Microverse201-Enumerable-Methods
-[stars-url]: https://github.com/collinsugwu/Microverse201-Enumerable-Methods/stargazers
-[issues-shield]: https://img.shields.io/github/issues/collinsugwu/Microverse201-Enumerable-Methods
-[issues-url]: https://github.com/collinsugwu/Microverse201-Enumerable-Methods/issues
-[license-shield]: https://img.shields.io/github/license/collinsugwu/Microverse201-Enumerable-Methods
-[license-url]: https://github.com/collinsugwu/Microverse201-Enumerable-Methods/blob/master/LICENSE.txt
+[contributors-url]: https://github.com/collinsugwu/Apple-clone/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/collinsugwu/Apple-clone
+[forks-url]: https://github.com/collinsugwu/Apple-clone/network/members
+[stars-shield]: https://img.shields.io/github/stars/collinsugwu/Apple-clone
+[stars-url]: https://github.com/collinsugwu/collinsugwu/Apple-clone/stargazers
+[issues-shield]: https://img.shields.io/github/issues/collinsugwu/Apple-clone
+[issues-url]: https://github.com/collinsugwu/Apple-clone/issues
+[license-shield]: https://img.shields.io/github/license/collinsugwu/Apple-clone
+[license-url]: https://github.com/collinsugwu/Apple-clone/blob/master/LICENSE.txt
